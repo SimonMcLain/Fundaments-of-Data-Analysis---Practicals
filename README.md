@@ -2,6 +2,11 @@
 
 
 References
+https://matplotlib.org/examples/pylab_examples/subplots_demo.html
+
+https://matplotlib.org/gallery/specialty_plots/anscombe.html
+
+
 https://www.youtube.com/watch?v=L6krn3hTY5g
 
 https://eagereyes.org/criticism/anscombes-quartet
