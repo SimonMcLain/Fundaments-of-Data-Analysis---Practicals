@@ -48,7 +48,7 @@ https://www.anaconda.com/download/
 
 
 #### Contributing
-Please read CONTRIBUTING.md (see link below) for details recommended code of conduct, and the process for submitting pull requests.
+Please read CONTRIBUTING.md (see link below) for details of my recommended code of conduct, and the recommended process for submitting pull requests.
 
 https://gist.github.com/PurpleBooth/b24679402957c63ec426.js
 
